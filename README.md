@@ -1,4 +1,4 @@
-# Smart URL Shortener
+# URL Shortener
 A full-stack URL shortening service built using Node.js, Express, and MongoDB Atlas.
 This application allows users to generate short links, create custom aliases, set optional expiry dates, track clicks in real time, and generate QR codes through a modern, responsive user interface.
 

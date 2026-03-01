@@ -4,10 +4,8 @@ This application allows users to generate short links, create custom aliases, se
 
 ## Live Demo
 
-(Add your deployed application link here after deployment)
+https://url-shortener-6ip9.onrender.com
 
-Example:  
-https://your-app-name.onrender.com
 
 ## Features
 - Generate short URLs
